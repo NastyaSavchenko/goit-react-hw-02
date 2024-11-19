@@ -1,0 +1,10 @@
+.btnList {
+  display: flex;
+  gap: 20px;
+}
+
+.btn {
+  background-color: #fff;
+  outline: solid 1px black;
+  color: inherit;
+}
